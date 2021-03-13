@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dev-ops-app"
+    }
+  },
+  "defaultProject": "dev-ops-app",
+  "cli": {
+    "analytics": false
+  }
 }
